@@ -1,0 +1,5 @@
+Model,Accuracy,Precision (fake),Recall (fake),F1 (fake),Macro F1,ROC-AUC
+Logistic Regression,0.8225,0.6082,0.7375,0.6667,0.7728,0.8773
+Linear SVM,0.8231,0.6162,0.7038,0.6571,0.769,0.8632
+Complement Naive Bayes,0.8162,0.6049,0.6817,0.641,0.7588,0.866
+Random Forest,0.8243,0.6632,0.549,0.6007,0.7441,0.8462
